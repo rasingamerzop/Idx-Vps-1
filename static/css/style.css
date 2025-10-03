@@ -1,0 +1,5 @@
+body { color: #e6eef8; }
+.plan-card { border-radius: 12px; overflow: hidden; transform: perspective(800px); transition: transform .35s; }
+.plan-card:hover { transform: translateY(-6px) rotateX(3deg) scale(1.02); }
+.card { border-radius: 12px; }
+.navbar-brand img { border-radius: 6px; }
